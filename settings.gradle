@@ -1,0 +1,2 @@
+include ':app', ':basemvp'
+rootProject.name='O-MVP'
